@@ -54,12 +54,10 @@ h1{
     font-size: 40px;
     line-height: 32px;
     color: #3D8168;
-    padding-top: 29px;
     width: 127px;
 }
 .price2{
     color:#6C7289; 
-    padding-top: 32px;
     font-weight: 500;
     font-size: 13px;
     line-height: 23px;
@@ -68,6 +66,8 @@ h1{
 }
 .div2{
     display: flex;
+    align-items: center;
+    margin-top: 20px;
 }
 .div3{
     background-color: #3D8168;
@@ -95,6 +95,6 @@ h1{
     padding-left: 6px;
 }
 .div3:hover{
-    background-color: #1A4032;
+    background-color: #19855d;
     cursor: pointer;
 }
